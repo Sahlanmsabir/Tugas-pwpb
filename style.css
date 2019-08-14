@@ -1,0 +1,86 @@
+* {margin: 0}
+
+body {
+	font-family: arial,segoe
+ui;
+}
+section.courses{
+	float:left;
+	width: 659px;
+	border-right: 1px solid #eeeeee;
+}
+article{
+	clear: both;
+	overflow: auto;
+	width: 100%;
+}
+hgroup{
+	margin-top: 40px;
+}
+figure{
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding:5px;
+	margin: 02px;
+	border:1px solid #eeeeee;
+}
+figcaption{
+	font-size: 90%;
+	text-align: left;
+}
+.wrap {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 100%;
+	background: #09c;
+	padding: 20px;
+	color: #fff;
+}
+.clear {clear: both}
+.nav {
+	width: 100%;
+	background: #000;
+	padding: 5px 20px;
+	color: #fff;
+	text-align: center;
+}
+
+.main {
+	width: 100%;
+	background: #6f9;
+}
+
+.content {
+	width: 100%;
+	background: #ff9;
+	padding: 2%;
+	min-height: 50PX;
+}
+aside{
+	width: 230px;
+	float: left;
+	padding:0px 0px 0px 20px;
+}
+aside section a{
+	display: block;
+	padding:10px;
+	border-bottom: 1px solid #eeeeee;
+}
+aside section a:hover{
+	color: #0060ff;
+	background-color: #efefef;
+}
+.clear {clear: both}
+
+.footer {
+	width: 102%;
+	height: auto;
+	padding: 5px 10px;
+	background: #333;
+	color: #fff;
+}
+
